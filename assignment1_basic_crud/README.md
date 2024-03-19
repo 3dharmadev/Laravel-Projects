@@ -1,3 +1,32 @@
+ # Batches Controller
+
+This section provides an overview of the Batches controller in your application. The Batches controller handles CRUD operations related to batches.
+
+## Listing Batches
+
+The "Listing Batches" functionality allows users to view a list of existing batches.
+
+## Creating Batches
+
+The "Creating Batches" functionality enables users to add new batches to the system.
+
+## Showing Batches
+
+The "Showing Batches" functionality allows users to view detailed information about a specific batch.
+
+## Editing Batches
+
+The "Editing Batches" functionality allows users to modify the details of an existing batch.
+
+## Deleting Batches
+
+The "Deleting Batches" functionality allows users to remove batches from the system.
+
+---
+
+ 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
